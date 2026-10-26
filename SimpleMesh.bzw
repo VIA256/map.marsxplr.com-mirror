@@ -1,0 +1,9 @@
+mesh
+ name example_mesh
+ vertex 10 20 30
+ vertex 30 20 30
+ vertex 40 20 30
+ face
+   vertices 3 1 2
+ endface
+end

@@ -1,0 +1,1 @@
+[trn:Terrain;r:500,500,500,513;h:Terrain.gz;l:Terrainl.png;s:Terrains.png;t:Terrain0.jpg=15x15,Terrain1.jpg=15x15][rndFogColor:0.2090639,0,0][rndFogDensity:0.004][rndAmbientLight:1,0.879118,0.8791638,1]{Base;7.842647,7.821571,-4.247982;0,201.2251,0;1}{Light;3959.313,2555.381,-421.2291;30,270,0;1;color:1,0.879118,0.8791638;intensity:0.5}{Sea;0,0,0;0;1}{Terrain;-250,1,-250;0;1}

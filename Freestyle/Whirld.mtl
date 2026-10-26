@@ -1,0 +1,26 @@
+#Unity3D Whirld Materials
+
+newmtl SeaMonsterExt
+Ka 0.2039216 0.2039216 0.2039216
+Kd 0 0 0
+Ks 0.2244166 0.2089196 0.372549
+Ns 0.078125
+map_Ka -o 0 0 -s 1 1 SeaMonsterExt.jpg
+#Shader VertexLit
+
+newmtl SeaMonsterInt
+Ka 0.1310537 0.1921569 0.08515186
+Kd 0 0 0
+Ks 0.0612812 1 0
+Ns 0.1680597
+map_Ka -o 0 0 -s 1 1 SeaMonsterInt.jpg
+#Shader VertexLit
+
+newmtl Fern3D
+Ka 0.6235294 0 0
+map_Ka -o 0 0 -s 1 1 Fern3D.png
+#Shader Nature/Soft Occlusion Leaves
+#BaseLight 1
+#AO 10
+#Occlusion 20
+#Cutoff 0.9

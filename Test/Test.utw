@@ -1,0 +1,1 @@
+[msh:test,mesh.obj][msh:test2,meshnontri.obj]{test;0,20,0;0;10}{test2;20,20,0;0;10}

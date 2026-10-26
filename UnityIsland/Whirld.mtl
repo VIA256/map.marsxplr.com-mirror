@@ -1,0 +1,139 @@
+#Unity3D Whirld Materials
+
+newmtl palmbark
+Ka 1 1 1
+map_Ka -o 0 0 -s 1 1 palmbark.jpg
+#Shader Nature/Soft Occlusion Bark
+#BaseLight 0
+#AO 3.867925
+
+newmtl bush4
+Ka 1 1 1
+map_Ka -o 0 0 -s 1 1 bush4.png
+#Shader Nature/Vegetation Two Pass unlit
+#Cutoff 0.5
+
+newmtl banyanbark
+Ka 1 1 1
+map_Ka -o 0 0 -s 1 1 banyanbark.jpg
+#Shader Nature/Soft Occlusion Bark
+#BaseLight 0.08490566
+#AO 1.603774
+
+newmtl footbridgetexture
+Ka 0.6106508 0.550454 0.4793011
+map_Ka -o 0 0 -s 1 1 footbridgetexture.jpg
+#Shader Diffuse
+
+newmtl boattexture
+Ka 0.6505532 0.6505532 0.6505532
+map_Ka -o 0 0 -s 1 1 boattexture.jpg
+#Shader Diffuse
+
+newmtl footbridgetexture2
+Ka 0.6106508 0.550454 0.4793011
+map_Ka -o 0 0 -s 1 1 footbridgetexture2.jpg
+#Shader Diffuse
+
+newmtl spitfire
+Ka 0.4959792 0.4959792 0.4959792
+map_Ka -o 0 0 -s 1 1 spitfire.png
+#Shader Transparent/Cutout/Diffuse
+#Cutoff 0.08955224
+
+newmtl redrust2
+Ka 0.375 0.375 0.375
+Kd 0 0 0
+Ks 0.141129 0.141129 0.141129
+Ns 0.6858491
+map_Ka -o 0 0 -s 5 5 redrust2.png
+#Shader VertexLit
+
+newmtl blade2
+Ka 0.5524194 0.5524194 0.5524194
+Kd 0 0 0
+Ks 0.1975806 0.1975806 0.1975806
+Ns 0.7
+map_Ka -o 0 0 -s 1 1 blade2.jpg
+#Shader VertexLit
+
+newmtl heli
+Ka 0.5927418 0.5927418 0.5927418
+map_Ka -o 0 0 -s 1 1 heli.png
+#Shader Transparent/Cutout/Diffuse
+#Cutoff 0.5566038
+
+newmtl concrete_planks
+Ka 0.6008065 0.564137 0.51117
+map_Ka -o 0 0 -s 1 1 concrete_planks.jpg
+#Shader Diffuse
+
+newmtl palmbranch
+Ka 1 1 1
+map_Ka -o 0 0 -s 1 1 palmbranch.png
+#Shader Nature/Soft Occlusion Leaves
+#BaseLight 0.1226415
+#AO 3.301887
+#Occlusion 2.075472
+#Cutoff 0.4839622
+
+newmtl banyanbranches
+Ka 1 1 1
+map_Ka -o 0 0 -s 1 1 banyanbranches.png
+#Shader Nature/Soft Occlusion Leaves
+#BaseLight 0.02830189
+#AO 2.35849
+#Occlusion 5.849057
+#Cutoff 0.5
+
+newmtl thintree-thintreeleaves1
+Ka 1 1 1
+map_Ka -o 0 0 -s 1 1 thintree-thintreeleaves1.png
+#Shader Nature/Soft Occlusion Leaves
+#BaseLight 0.1603774
+#AO 1.792453
+#Occlusion 0.1886792
+#Cutoff 0.5
+
+newmtl cliff (layered rock)
+Ka 0.6976272 0.6976272 0.6976272
+map_Ka -o 0 0 -s 1 1 Terrain0.jpg
+#Shader Diffuse Fast
+
+newmtl bananaplanttexture
+Ka 1 1 1
+map_Ka -o 0 0 -s 1 1 bananaplanttexture.png
+#Shader Nature/Soft Occlusion Leaves
+#BaseLight 0
+#AO 5.188679
+#Occlusion 6.603774
+#Cutoff 0.5
+
+newmtl thatchedroof
+Ka 0.4959677 0.4959677 0.4959677
+map_Ka -o 0 0 -s 1 1 thatchedroof.png
+#Shader Transparent/Cutout/Diffuse
+#Cutoff 0.5377358
+
+newmtl thintree-thintreebark
+Ka 1 1 1
+map_Ka -o 0 0 -s 1 1 thintree-thintreebark.png
+#Shader Nature/Soft Occlusion Bark
+#BaseLight 0.04716981
+#AO 3.867924
+
+newmtl mimosabranch
+Ka 1 1 1
+map_Ka -o 0 0 -s 1 1 mimosabranch.png
+#Shader Nature/Soft Occlusion Leaves
+#BaseLight 0.2358491
+#AO 3.113208
+#Occlusion 0.9433962
+#Cutoff 0.5566038
+
+newmtl mimosabark
+Ka 1 1 1
+map_Ka -o 0 0 -s 1 1 mimosabark.jpg
+#Shader Nature/Soft Occlusion Bark
+#BaseLight 0
+#AO 3.867924

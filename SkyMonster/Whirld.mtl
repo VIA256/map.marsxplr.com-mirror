@@ -1,0 +1,17 @@
+#Unity3D Whirld Materials
+
+newmtl Exterior
+Ka 0.07543252 0.08106139 0.1764706
+Kd 0.1923077 0.1923077 0.1923077
+Ks 0.2755804 0 0.4156863
+Ns 0.5318868
+illum 2
+map_Ka -o 0 0 -s 1 1 Exterior.jpg
+
+newmtl Interior
+Ka 0.592288 1 0.5137255
+Kd 0.09942149 0.08844291 0.1058824
+Ks 0 1 0
+Ns 0.06462684
+illum 2
+map_Ka -o 0 0 -s 1 1 Interior.jpg

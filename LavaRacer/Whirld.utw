@@ -1,0 +1,1 @@
+[trn:Terrain;r:3000,700,3000,4097;h:Terrain.gz;l:Terrainl.png;s:Terrains.png;t:Dirt.jpg=15x15,Path.jpg=15x15,SeaFloor.jpg=15x15]{Base;-846.1837,11.2236,-235.402;0;1}{Light;0,0,0;30.00001,270,0;1;color:1,0.879118,0.8791638;intensity:0.5}{Sea;0,0,0;0;1}{Terrain;-1500,-70,-1500;0;1}
